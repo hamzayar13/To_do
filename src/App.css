@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+}
+.form{
+  text-align: center;
+}
+.boxes{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 50px;
+padding-bottom: 100px;
+}
+.disc{
+display: inline;
+height: 150px;
+}
+.navbar{
+  background-color: RGBA(var(--bs-dark-rgb), var(--bs-bg-opacity, 1)) !important;
+  margin-bottom: 50px;
+}
+
+.about-head{
+text-align: center;
+}
+.list{
+  padding: 25px;
+  font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.para{
+  text-align: center;
+}
+.view-btn{
+  padding: 10px;
+  min-width: 100px;
+  margin: 50px;
+}
+.welcome{
+  margin: 50px;
+}
+.return{
+  
+            display: flex;
+            align-items: center;
+            justify-content:center;
+            height: 100%vh;
+          
+}
